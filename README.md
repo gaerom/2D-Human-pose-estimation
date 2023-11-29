@@ -17,7 +17,9 @@ The processing is done from high to low resolutions. It starts by localizing ide
 🔥 But, bottom-up approaches face challenges in **grouping body parts when there is a large overlap between people.** 
 
 
-<br/>
+
+
+
 ### Tasks
 I implemented some tasks...  
 1) Draw pose landmarks and connection lines(image)
