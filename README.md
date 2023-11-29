@@ -5,7 +5,7 @@ Two common approaches are employed in estimating the poses of individuals in a g
 The processing is done from low to high resolutions, follow the detection of the individual instances in the image first using a bounding box object detector and then focus on determining their poses.  
 
 #### 🔥 Suffer from...  
-1) If the detection of indiciduals fails, there is no possibility of recovering.
+1) If the detection of individuals fails, there is no possibility of recovering.
 2) It is vulnerable when multiple individuals are nearby.
 3) The computational cost depends on the number of people in the image.
 
