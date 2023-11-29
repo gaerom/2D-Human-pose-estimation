@@ -19,11 +19,14 @@ The processing is done from high to low resolutions. It starts by localizing ide
 
 <br/><br/>
 
-
-### Tasks
+## Tasks
 I implemented some tasks...  
 1) Draw pose landmarks and connection lines(image)
 2) Draw pose landmarks and connection lines on webcam
 3) Squat counting using pose landmarks
 
-### Results  
+## Results  
+1) 
+<img src="https://github.com/gaerom/2D-Human-pose-estimation/assets/92725975/62aa41f3-3a8f-47b5-821c-64afb82a0757" alt="pose_result" width="400"/>
+
+2) 
