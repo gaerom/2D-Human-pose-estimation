@@ -21,8 +21,8 @@ The processing is done from high to low resolutions. It starts by localizing ide
 
 ## Tasks
 I implemented some tasks...  
-1) Draw pose landmarks and connection lines(image)
-2) Draw pose landmarks and connection lines on webcam
+1) Draw pose landmarks and connect lines(image)
+2) Draw pose landmarks and connect lines on webcam
 3) Squat counting using pose landmarks
 
 ## Results  
