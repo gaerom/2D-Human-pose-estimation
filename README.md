@@ -17,7 +17,7 @@ The processing is done from high to low resolutions. It starts by localizing ide
 🔥 But, bottom-up approaches face challenges in **grouping body parts when there is a large overlap between people.** 
 
 
-
+<br/><br/>
 
 
 ### Tasks
