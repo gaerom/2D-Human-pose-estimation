@@ -15,5 +15,5 @@ The processing is done from low to high resolutions, follow the detection of the
 The processing is done from high to low resolutions. It starts by localizing identity free semantic entities and then grouping them into person instance.  
 
 ### 💡 Bottom-up approaches overcame 1) early commitment and showed detached run-tome complexity from the number of people in the image.  
-🔥 But, bottom-up approaches face challenges in ** grouping body parts when there is a large overlap between people. **
+🔥 But, bottom-up approaches face challenges in **grouping body parts when there is a large overlap between people.** 
 
