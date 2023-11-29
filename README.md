@@ -26,7 +26,6 @@ I implemented some tasks...
 3) Squat counting using pose landmarks
 
 ## Results  
-1) 
-<img src="https://github.com/gaerom/2D-Human-pose-estimation/assets/92725975/62aa41f3-3a8f-47b5-821c-64afb82a0757" alt="pose_result" width="100"/>
+1) <img src="https://github.com/gaerom/2D-Human-pose-estimation/assets/92725975/62aa41f3-3a8f-47b5-821c-64afb82a0757" alt="pose_result" width="200"/>
 
 2) 
