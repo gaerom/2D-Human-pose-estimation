@@ -1,4 +1,3 @@
-# Human pose estimation  
 ## Approaches in pose estimation  
 Two common approaches are employed in estimating the poses of individuals in a given image.  
 
@@ -17,3 +16,12 @@ The processing is done from high to low resolutions. It starts by localizing ide
 ### 💡 Bottom-up approaches overcame 1) early commitment and showed detached run-tome complexity from the number of people in the image.  
 🔥 But, bottom-up approaches face challenges in **grouping body parts when there is a large overlap between people.** 
 
+
+
+### Tasks
+I implemented some tasks...  
+1) Draw pose landmarks and connection lines(image)
+2) Draw pose landmarks and connection lines on webcam
+3) Squat counting using pose landmarks
+
+### Results  
